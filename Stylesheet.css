@@ -1,0 +1,100 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: sticky;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    ;
+  }
+
+  th{
+    background: lightgreen;
+  }
+  td {
+    background: palegoldenrod;
+  }
+
+  .right{
+    float: left;
+  }
+  
+  li {
+    float: right;
+    word-spacing: 40px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    color: blue;
+  }
+  
+  
+  h1{
+    padding-top: 2%;
+    margin-left: 2%;
+    margin-right: auto;
+    un
+
+    
+  }
+
+  input{
+    height: 15%;
+    width: 90%;
+    margin-left:2%;
+    margin-right: auto;
+    background-color: l;
+  }
+
+  label{
+    margin-left:2%;
+    margin-right: auto;
+  }
+  
+  #dob{
+    height: 15%;
+    width: auto;
+  }
+  
+
+  button{
+    background: black;
+    color:white;
+    height: 2rem;
+    width: 100%;
+  }
+
+
+
+  table td{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+  }
+
+  .chart
+  {
+    
+    background: lightcyan;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 2%;
+
+  }
+
+  .userDetails{
+    background: palegoldenrod;
+    margin-left: 10%;
+    margin-right: 10%;
+
+  }
